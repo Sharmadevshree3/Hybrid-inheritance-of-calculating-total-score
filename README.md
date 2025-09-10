@@ -1,1 +1,0 @@
-# Hybrid-inheritance-of-calculating-total-score
